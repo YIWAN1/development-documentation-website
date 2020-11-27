@@ -60,7 +60,7 @@ h4 {
 
 header {
 	grid-area: header;
-	background: #455A64;
+	background: #64ac87;
 	color: white;
 	padding: 4rem;
 	text-align: center;
@@ -72,7 +72,7 @@ header {
 
 nav {
 	grid-area: nav;
-	background: #37474F;
+	background: #4D7E65;
 	padding-top: 1em;
 }
 
